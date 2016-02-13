@@ -10,7 +10,7 @@ mysql_query("SET NAMES 'utf8'");
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-	<title>Система контроля</title>
+	<title>Система</title>
 	<link rel="stylesheet" href="css/styles.css" type="text/css">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald:400,300" type="text/css">
 	<link href="/css/bootstrap.css" rel="stylesheet" media="screen">
