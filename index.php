@@ -45,7 +45,7 @@ next:$('#lofslidecontent45 .lof-previous') };
 <body>
 	<div id="wrapper">
 		<div id="header">
-			<h1>Мастер-класс по программированию</h1>
+			<h1>Мастер-класс по программированию!!!!!!!!!!!!!</h1>
 		</div>
 		<div id="menu">
 			<nav role="navigation">
