@@ -1,0 +1,83 @@
+.wrap{
+    width:1000px;
+    margin: 0 auto;
+}
+table.main_table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table.main_table td,table.main_table th{
+    border:1px solid #000;
+}
+table.main_table th{
+    font-weight: bold;
+}
+table.main_table td.top{
+    text-align: center;
+    height: 150px;
+    vertical-align: middle;
+    font-size: 30px;    
+}
+table.main_table td.bottom{
+    text-align: center;
+    height: 30px;
+    vertical-align: middle;
+}
+table.main_table td.left{
+    width:200px;
+    vertical-align: top;
+    padding: 5px;
+}
+table.main_table td.center{
+    padding: 5px;
+}
+table.main100{
+    width: 100%;
+}
+table.main100 td,table.main100 th{
+    padding: 5px;
+}
+table.main100 tr:hover td{
+    background: #A9A9A9;
+}
+.error{
+    color:red;
+}
+.good{
+    color:green;
+}
+
+.center ul.message{
+    display: block;
+    margin:10px;
+    padding: 5px;
+    color:red;
+    border:1px dotted red;
+}
+
+#parent_div {
+  background: black; 
+  height: 100%;
+  opacity: 0.75;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  top: 0;
+  left: 0;
+}
+
+#div {
+  background: yellow;
+  padding: 10px;  
+  height: 300px;
+  position: fixed;
+  top: 30%;
+  left: 35%;
+  color: red;
+  width: 300px;
+}
+a#close {
+  color: gray;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
